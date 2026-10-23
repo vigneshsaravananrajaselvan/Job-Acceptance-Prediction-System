@@ -1,0 +1,4 @@
+job_placement_model.pkl
+__pycache__/
+.venv/
+.ipynb_checkpoints/
